@@ -3,4 +3,4 @@
 
 ### Project Subject :  Neural Networks 
 
-### Copy Right  : All right reserved 
+### Copy Rights  : All rights reserved 
